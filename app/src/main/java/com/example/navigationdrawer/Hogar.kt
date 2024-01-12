@@ -59,7 +59,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -103,8 +102,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        //.background(Color.Red)
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -147,8 +144,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        //.background(Color.Red)
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -192,7 +187,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -237,7 +231,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -280,8 +273,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        //.background(Color.Red)
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -325,7 +316,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -369,7 +359,6 @@ fun Hogar() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -396,8 +385,5 @@ fun Hogar() {
                 )
             }
         }
-
-        item { Divider() }
-
     }
 }
