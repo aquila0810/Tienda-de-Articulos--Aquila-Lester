@@ -58,7 +58,6 @@ fun Cocina() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
