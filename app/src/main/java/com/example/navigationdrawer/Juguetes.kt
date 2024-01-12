@@ -58,7 +58,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -102,7 +101,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -146,8 +144,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        //.background(Color.Red)
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -191,7 +187,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -236,7 +231,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -279,8 +273,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        //.background(Color.Red)
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -324,7 +316,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -368,7 +359,6 @@ fun Juguetes() {
                 )
                 Row(
                     modifier = Modifier
-                        .height(75.dp)
                         .width(250.dp)
                 ) {
                     Text(
@@ -396,8 +386,5 @@ fun Juguetes() {
                 )
             }
         }
-
-        item { Divider() }
-
     }
 }
